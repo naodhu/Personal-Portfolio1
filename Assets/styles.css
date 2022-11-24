@@ -31,11 +31,8 @@ nav ul {
 }
 nav a {
  color: rgb(200, 195, 189);
-<<<<<<< HEAD
  font-weight: 20px;
-=======
  font-weight: ;
->>>>>>> 11f9327 (built the whole code)
  text-decoration: underline;
 }
 
@@ -190,15 +187,13 @@ body {
 }
 
 
- 
-<<<<<<< HEAD
+
 @media (min-width:600px){
   .div10 {
     margin-left: 100px;
   }
 }
-=======
->>>>>>> 11f9327 (built the whole code)
+
 
 
   
