@@ -200,6 +200,11 @@ nav ul li a:hover::after{
   width: 100%;
 }
  
+@media (min-width:600px){
+  .div10 {
+    margin-left: 100px;
+  }
+}
 
 
   
